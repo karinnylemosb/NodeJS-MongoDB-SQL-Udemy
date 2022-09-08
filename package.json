@@ -1,0 +1,8 @@
+{
+  "name": "NodeJS-MongoDB-SQL-Udemy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/karinnylemosb/NodeJS-MongoDB-SQL-Udemy.git",
+  "author": "Karinny Lemos <99560287+karinnylemosb@users.noreply.github.com>",
+  "license": "MIT"
+}
